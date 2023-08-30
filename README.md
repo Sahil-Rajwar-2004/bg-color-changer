@@ -1,3 +1,3 @@
-# Random Color Picker  
+# ***Random Color Picker***  
 
-## Using REACT+VITE  
+## ***Using [REACT](https://react.dev/)+[VITE](https://vitejs.dev/)***  
