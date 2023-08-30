@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    transition: background-color 0.3s ease;
+}
+
+.change-btn{
+    background-color: #242424;
+    color: dodgerblue;
+    font-family: monospace;
+    padding: 20px;
+    border: 0;
+    border-radius: 10px;
+}
+
+.copy-btn{
+    background-color: #242424;
+    color: dodgerblue;
+    font-family: monospace;
+    margin-top: 10px;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
